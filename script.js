@@ -1,6 +1,6 @@
 let submit = document.querySelector("#submit");
 
 submit.addEventListener("click", (e) => {
-  alert("submitted");
+  // alert("submitted");
   console.log("submit clicked");
 });
